@@ -51,27 +51,37 @@ import java.util.Scanner;
 //    }
 //}
 
-public class Main {
-    public static void main(String[] args ) {
-        //nextLin()  --водят только строки
-        //nextInt()  -- водят только числа
-        Scanner scan = new Scanner(System.in);
-        System.out.print("Ведите свое число1: ");
-
-        float sum1 = scan.nextFloat();
-        System.out.print("Ведите свое число2: ");
-
-        float sum2 = scan.nextFloat();
-
-        float res1 = sum1 + sum2;
-        float res2 = sum1 - sum2;
-        float res3 = sum1 * sum2;
-        float res4 = sum1 / sum2;
-
-        System.out.println("Результат: ");
-        System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4 );
-
-    }
-}
+//public class Main {
+//    public static void main(String[] args ) {
+//        //nextLin()  --водят только строки
+//        //nextInt()  -- водят только числа
+//        Scanner scan = new Scanner(System.in);
+//        System.out.print("Ведите свое число1: ");
+//
+//        float sum1 = scan.nextFloat();
+//        System.out.print("Ведите свое число2: ");
+//
+//        float sum2 = scan.nextFloat();
+//
+//        float res1 = sum1 + sum2;
+//        float res2 = sum1 - sum2;
+//        float res3 = sum1 * sum2;
+//        float res4 = sum1 / sum2;
+//
+//        System.out.println("Результат: ");
+//        System.out.println(res1 + "\n" + res2 + "\n" + res3 + "\n" + res4 );
+//
+//    }
+//}
 
 //Модуль 5
+
+  public class Main {
+
+    public static void main(String[] args) {
+     System.out.println("HHHHH");
+
+     int sum = 13;
+    }
+
+}
